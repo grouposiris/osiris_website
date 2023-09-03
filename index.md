@@ -80,10 +80,10 @@ sections:
 
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: Download Our Materials!
     actions:
       - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+        url: https://osirisgroup.com.br/themes/creative/
         class: btn-light
 
   - type: members.html
@@ -94,7 +94,7 @@ sections:
       - title: Rafael Oliveira
         text: Founder and Head Engineer
         image: assets/img/members/person1.jpg
-        url: '#'
+        url: 'https://rafaelnmo.github.io/'
       - title: Nicole Citadin
         text: Digital IC Designer
         image: assets/img/members/person_default.png
@@ -121,17 +121,27 @@ sections:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
           2023
-          **Humble Beginnings**
+          **Beginnings**
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          The journey starts driven by the desire to enhance the field of microelectronics in Brazil through RISC-V solutions, aspiring to learn IC design and grow along the way.
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          November 2019
-          An Coaching started
+          February 2023:
+          The Team Grows
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          A small group of people willing to work hard and make our very first low-power core design joined.
+      - image: assets/img/portfolio/thumbnails/3.jpg
+        title: >+
+          August 2023:
+          OSIRIS I
+        text: >-
+          Our very first design, OSIRIS I, has been very first design for inclusion in an IEEE program, with strong chances for tapeout by year-end.
+
+
+
+
+
+          
 
   - type: contact.html
     section_id: contacts
