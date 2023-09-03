@@ -1,0 +1,29 @@
+# Site settings
+title: Osiris TEST
+email: grupoosiris@gmail.com
+timezone: UTC
+description: > # this means to ignore newlines until "baseurl:"
+repository: vvalchev/creative-theme-jekyll-new
+permalink: "/:title/"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.osirisgroup.com.br" # the base hostname & protocol for your site
+logo: '/assets/img/logo_website_small.png'
+favicon: 'assets/img/favicon.ico'
+author: Copyright &copy; 2023 - Group Osiris
+lang: en_US
+
+# Build settings
+safe: true # always trues on github-pages, disables _plugins/
+markdown: kramdown
+sass:
+  indentWidth: 4
+  style: compressed
+  precision: 10
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - build-in-docker.sh
+  - README.md

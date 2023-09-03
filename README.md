@@ -1,2 +1,5 @@
-# osiris_website
-Osiris website structure
+# Group Osiris
+
+<!--
+How to execute: bundle exec jekyll serve
+ -->
