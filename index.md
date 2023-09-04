@@ -123,7 +123,7 @@ sections:
           2023
           **Beginnings**
         text: >-
-          The journey starts driven by the desire to enhance the field of microelectronics in Brazil through RISC-V solutions, aspiring to learn IC design and grow along the way.
+          The journey starts driven by the desire to enhance the field of microelectronics in Brazil through RISC-V solutions, aspiring to learn IC design along the way.
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           February 2023:
@@ -135,7 +135,7 @@ sections:
           August 2023:
           OSIRIS I
         text: >-
-          Our very first design, OSIRIS I, has been very first design for inclusion in an IEEE program, with strong chances for tapeout by year-end.
+          Our very first design, OSIRIS I, has been accepted in an IEEE program, with strong chances for tapeout by year-end.
 
 
 
