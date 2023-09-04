@@ -36,10 +36,10 @@ sections:
         text: Creation of logical behavior and high-level representation.
         icon: bi-file-earmark-code
       - title: Circuit Design
-        text: Creation of circuit logic and connections for the design.
+        text: Development of circuit logic and circuit connections for the design.
         icon: bi-battery-half
       - title: Physical Design
-        text: Design and optimization of physical representation.
+        text: Design and optimizations for physical representation.
         icon: bi-cpu
       - title: Signoff
         text: Final validation and design approval to tape-out.
