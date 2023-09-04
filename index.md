@@ -14,7 +14,18 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Here we design it
-    text: Our focus is on IC design and the development of soft IPs, SoCs, and ASICs for both general-purpose and low-power applications. Our team is committed to advancing the field of VLSI design through innovative research and practical solutions.Join us on LinkedIn to stay up-to-date on our latest developments and insights into the world of semiconductor design.
+    text: Our focus is on IC design and the development of soft IPs, SoCs, and ASICs for both general-purpose and low-power applications. Our team is committed to advancing the field of VLSI design through innovative research and practical solutions. 
+    title_1: Charting Success With Planning
+    text_1: We work to define project goals, objectives, and requirements. We carefully consider the specifications, constraints, and timelines to create a detailed project plan that serves as a roadmap for the entire design process. This planning phase is crucial in establishing clear project milestones and deliverables, enabling us to manage resources efficiently and ensure that the project stays on track from start to finish.
+    image_1: assets/img/sections/section1.png
+    title_2: Unleashing Innovation
+    text_2: We delve into the world of digital IC design, employing the latest tools and methodologies to craft innovative solutions. Our focus extends to the development of soft IPs, SoCs, and ASICs tailored to both general-purpose and low-power applications. We believe in pushing the boundaries of what's possible, and our designs reflect that commitment, consistently delivering excellence in the field of VLSI design.
+    image_2: assets/img/sections/section2.png
+    title_3: Delivering Beyond Expectations
+    text_3: Our commitment to delivering extends beyond just meeting project specifications, we strive to provide practical solutions to the world that align with our long-term goals. With rigorous testing, quality assurance, and adherence to industry standards, we guarantee that the delivered ASIC designs are ready to make a significant impact in the world of microelectronics.
+    image_3: assets/img/sections/section3.png
+    text_final: Join us on LinkedIn to stay up-to-date on our latest developments and insights into the world of semiconductor design.
+
     actions:
       - title: Get Started
         url: '#page-top'

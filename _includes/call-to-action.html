@@ -7,6 +7,39 @@
         <div class="text-white mb-4 ">{{ section.text | markdownify }}</div>
       </div>
     </div>
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-lg-8 col-xl-6 {{ section.text_style | default: 'text-center' }}">
+        <img class="text-primary section-image"" src="{{ section.image_1 }}" alt="{{ section.title_1 }}">
+      </div>
+      <div class="col-lg-8 col-xl-6 {{ section.text_style | default: 'text-center' }}">
+        <h2 class="text-white mt-0 text-center">{{ section.title_1 }}</h2>
+        <div class="text-white mb-4 ">{{ section.text_1 | markdownify }}</div>
+      </div>
+    </div>
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-lg-8 col-xl-6 {{ section.text_style | default: 'text-center' }}">
+        <h2 class="text-white mt-0 text-center">{{ section.title_2 }}</h2>
+        <div class="text-white mb-4 ">{{ section.text_2 | markdownify }}</div>
+      </div>
+      <div class="col-lg-8 col-xl-6 {{ section.text_style | default: 'text-center' }}">
+        <img class="text-primary section-image"" src="{{ section.image_2 }}" alt="{{ section.title_2 }}">
+      </div>
+    </div>
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-lg-8 col-xl-6 {{ section.text_style | default: 'text-center' }}">
+        <img class="text-primary section-image" src="{{ section.image_3 }}" alt="{{ section.title_3 }}">
+      </div>
+      <div class="col-lg-8 col-xl-6 {{ section.text_style | default: 'text-center' }}">
+        <h2 class="text-white mt-0 text-center">{{ section.title_3 }}</h2>
+        <div class="text-white mb-4 ">{{ section.text_3 | markdownify }}</div>
+      </div>
+    </div>
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-lg-8 col-xl-6 {{ section.text_style | default: 'text-center' }}">
+        <hr class="divider border border-2 border-white ">
+        <div class="text-white mb-4 ">{{ section.text_final | markdownify }}</div>
+      </div>
+    </div>
     {% include actions.html actions=section.actions %}
   </div>
 </section>

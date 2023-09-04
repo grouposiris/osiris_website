@@ -7379,6 +7379,7 @@ textarea.form-control-lg {
 
 .justify-content-center {
   justify-content: center !important;
+  align-items: center;
 }
 
 .justify-content-between {
@@ -10993,4 +10994,8 @@ header.masthead h1, header.masthead .h1 {
 }
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
+}
+
+.section-image{
+  max-width: 60%;
 }
