@@ -61,31 +61,31 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: OSIRIS I
+        text: This design presents a straightforward 32-bit RISC core with 16 general-purpose registers (x0-x15), where x0 is a dedicated ZERO register.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
       - title: Project 2
-        text: This is a very short project description.
+        text: Coming soon...
         icon: 2.jpg
         url: '#'
       - title: Project 3
-        text: This is a very short project description.
+        text: Coming soon...
         icon: 3.jpg
         url: '#'
       - title: Project 4
-        text: This is a very short project description.
+        text: Coming soon...
         icon: 4.jpg
         url: '#'
       - title: Project 5
-        text: This is a very short project description.
+        text: Coming soon...
         icon: 5.jpg
         url: '#'
       - title: Project 6
-        text: This is a very short project description.
+        text: Coming soon...
         icon: 6.jpg
         url: '#'
 
@@ -104,23 +104,23 @@ sections:
     members:
       - title: Rafael Oliveira
         text: Founder and Head Engineer
-        image: assets/img/members/person1.jpg
+        image: assets/img/members/person7.jpg
         url: 'https://rafaelnmo.github.io/'
       - title: Nicole Citadin
         text: Digital IC Designer
-        image: assets/img/members/person_default.png
-        url: '#'
+        image: assets/img/members/person2.jpg
+        url: ' '
       - title: Deni Alves
         text: AMS IC Designer
-        image: assets/img/members/person_default.png
+        image: assets/img/members/person3.jpg
         url: '#'
       - title: Luis Spader
         text: Digital IC Designer
-        image: assets/img/members/person_default.png
+        image: assets/img/members/person4.jpg
         url: '#'
       - title: Gabriel Lima
         text: Digital IC Designer
-        image: assets/img/members/person_default.png
+        image: assets/img/members/person5.jpg
         url: '#'
 
   - type: timeline.html
@@ -129,19 +129,19 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/timeline/1.jpg
         title: >+
           2023
           **Beginnings**
         text: >-
           The journey starts driven by the desire to enhance the field of microelectronics in Brazil through RISC-V solutions, aspiring to learn IC design along the way.
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/timeline/2.jpg
         title: >+
           February 2023:
           The Team Grows
         text: >-
           A small group of people willing to work hard and make our very first low-power core design joined.
-      - image: assets/img/portfolio/thumbnails/3.jpg
+      - image: assets/img/timeline/3.jpg
         title: >+
           August 2023:
           OSIRIS I

@@ -14,4 +14,12 @@
       overflow: hidden;
       border-radius: 50%;
     }
+
+    a{
+        color: white;
+    }
+
+    a:hover{
+        color: var(--bs-primary);
+    }
 }

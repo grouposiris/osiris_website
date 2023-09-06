@@ -74,7 +74,7 @@
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #f6b21a;
-  --bs-link-hover-color: #f6850c;
+  --bs-link-hover-color: #f6b21a;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
@@ -10998,4 +10998,8 @@ header.masthead h1, header.masthead .h1 {
 
 .section-image{
   max-width: 60%;
+}
+
+.member_link{
+  
 }
