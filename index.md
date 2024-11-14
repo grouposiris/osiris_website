@@ -114,13 +114,9 @@ sections:
         text: AMS IC Designer
         image: assets/img/members/person3.jpg
         url: '#'
-      - title: Luis Spader
+      - title: Thiago Maia
         text: Digital IC Designer
         image: assets/img/members/person4.jpg
-        url: '#'
-      - title: Gabriel Lima
-        text: Digital IC Designer
-        image: assets/img/members/person5.jpg
         url: '#'
 
   - type: timeline.html
@@ -147,12 +143,12 @@ sections:
           OSIRIS I
         text: >-
           Our very first design, OSIRIS I, has been accepted in an IEEE program, with strong chances for tapeout by year-end.
-
-
-
-
-
-          
+      - image: assets/img/timeline/4.png
+        title: >+
+          November 2024:
+          OSIRIS I
+        text: >-
+          The core OSIRIS I has been sent to tapeout, with samples delivery expected by April 2025.        
 
   - type: contact.html
     section_id: contacts
