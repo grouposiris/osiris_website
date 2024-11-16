@@ -66,7 +66,7 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: 7.png
         url: '#'
       - title: Project 2
         text: Coming soon...
